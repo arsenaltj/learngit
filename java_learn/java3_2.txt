@@ -1,0 +1,11 @@
+String 类
+ 特点：
+    1.最常用的类
+	2.不可变对象
+	3.final类
+ 特殊的构造
+    String 
+ 乱码问题（解码和编码的方式必须是一样的）
+
+ JavaBean
+     number format练习，格式化
